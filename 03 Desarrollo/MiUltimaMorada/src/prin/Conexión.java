@@ -1,6 +1,5 @@
 package prin;
 import Commons.BDconexion;
-import java.sql.Connection;
 import java.sql.ResultSet;
 
 public class Conexión {
